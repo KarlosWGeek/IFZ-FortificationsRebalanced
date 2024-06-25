@@ -9,6 +9,7 @@ The IFZ Fortifications Rebalanced Mod attempts to improve the game's early and l
 3. Load up a save or start a new game. Walls, towers and gates will now have the mod's HP values instead of the base game values.
 
 Made for and tested on game version 0.24.6.18 1 BETA. Earlier and future versions may be unsupported due to the game being in early access with semi-frequent updates.
+NOTE - Walls, towers and gates placed before the mod was installed will keep their previous values. It's recommended to start a new save with the mod instead of loading older ones.
 
 ## Changes as of mod version 1.0
 
