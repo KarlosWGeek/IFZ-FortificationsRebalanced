@@ -1,0 +1,94 @@
+{
+    "id": "bld_fortified_gate",
+    "placeableObjectType": 4,
+    "prefabBuilding": {
+        "instanceID": 57476
+    },
+    "addEmblem": false,
+    "soldierHitProbability": 0.15000000596046449,
+    "buildingTimeGTS": 150.0,
+    "maxBuildingWorkers": 5.0,
+    "deadaptationTimeGTS": 100.0,
+    "maxDeadaptationWorkers": 0.10000000149011612,
+    "repairTimeGTS": 50.0,
+    "maxRepairWorkers": 2.0,
+    "deconstructTimeGTS": 160.0,
+    "maxDeconstructionWorkers": 3,
+    "poiSprite": {
+        "instanceID": 51150
+    },
+    "conceptSprite": {
+        "instanceID": 50596
+    },
+    "showStructuralIntegrity": true,
+    "hpForStructure": 16000.0,
+    "_hpForAdaptedPer100M3": 50.0,
+    "showNextPreviousButtons": true,
+    "nextBtnTooltipId": "WoodenPalisade_Panel_NextBtn",
+    "prevBtnTooltipId": "WoodenPalisade_Panel_PrevBtn",
+    "height": 1.0,
+    "surface": 100.0,
+    "hideSurfaceLabel": false,
+    "hideHeightLabel": false,
+    "hasSearchModule": false,
+    "hasWorkersModule": true,
+    "maxWorkers": 6.0,
+    "_employment": 6,
+    "hasStorageModule": false,
+    "resourcesCapacity": 0.0,
+    "isStockroom": false,
+    "hasLivingQuartersModule": false,
+    "livingCapacity": 0.0,
+    "housePriority": 0,
+    "hasProductionModule": false,
+    "productionsData": {
+        "damageRedirectedToProductionProgress": false,
+        "minTemperatureWithMaxEfficiency": 15.0,
+        "_temperatureEfficiencyCurve": {
+            "serializedVersion": "2",
+            "m_Curve": [],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+        },
+        "productions": []
+    },
+    "hasSquadCreationModule": false,
+    "maximumSquadsAmountPer100M": 0.0,
+    "hasDefenceModule": true,
+    "defenceData": {
+        "maxAmmo": 3,
+        "defaultWeapon": {
+            "instanceID": 15352
+        },
+        "startSelectWeapon": {
+            "instanceID": 15360
+        },
+        "weaponsUsable": [
+            {
+                "instanceID": 15360
+            },
+            {
+                "instanceID": 15350
+            },
+            {
+                "instanceID": 15364
+            },
+            {
+                "instanceID": 15362
+            }
+        ],
+        "additionalRatioCooldown": 0.20000000298023225
+    },
+    "hasResearchModule": false,
+    "hasWorkersTreatmentModule": false,
+    "_healingPerDoctorPerHour": 0.0,
+    "hasSoldiersTreatmentModule": false,
+    "_bedsPerPhysician": 0,
+    "_bedHealingSpeed": 0.0,
+    "hasWeatherModule": false,
+    "_meteorologistEfficiencyPerGTS": 1.0,
+    "isInteractable": true,
+    "_isHq": false,
+    "showTextInProduction": false
+}

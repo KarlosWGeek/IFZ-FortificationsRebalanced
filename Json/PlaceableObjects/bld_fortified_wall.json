@@ -1,0 +1,81 @@
+{
+    "id": "bld_fortified_wall",
+    "placeableObjectType": 3,
+    "prefabBuilding": {
+        "instanceID": 56058
+    },
+    "addEmblem": false,
+    "soldierHitProbability": 0.20000000298023225,
+    "buildingTimeGTS": 105.0,
+    "maxBuildingWorkers": 3.0,
+    "deadaptationTimeGTS": 100.0,
+    "maxDeadaptationWorkers": 0.10000000149011612,
+    "repairTimeGTS": 35.0,
+    "maxRepairWorkers": 2.0,
+    "deconstructTimeGTS": 75.0,
+    "maxDeconstructionWorkers": 3,
+    "poiSprite": {
+        "instanceID": 49456
+    },
+    "conceptSprite": {
+        "instanceID": 51052
+    },
+    "showStructuralIntegrity": true,
+    "hpForStructure": 20000.0,
+    "_hpForAdaptedPer100M3": 50.0,
+    "showNextPreviousButtons": true,
+    "nextBtnTooltipId": "FortifiedWall_Panel_NextBtn",
+    "prevBtnTooltipId": "FortifiedWall_Panel_PrevBtn",
+    "height": 10.0,
+    "surface": 100.0,
+    "hideSurfaceLabel": false,
+    "hideHeightLabel": false,
+    "hasSearchModule": false,
+    "hasWorkersModule": false,
+    "maxWorkers": 0.0,
+    "_employment": 0,
+    "hasStorageModule": false,
+    "resourcesCapacity": 0.0,
+    "isStockroom": false,
+    "hasLivingQuartersModule": false,
+    "livingCapacity": 0.0,
+    "housePriority": 0,
+    "hasProductionModule": false,
+    "productionsData": {
+        "damageRedirectedToProductionProgress": false,
+        "minTemperatureWithMaxEfficiency": 15.0,
+        "_temperatureEfficiencyCurve": {
+            "serializedVersion": "2",
+            "m_Curve": [],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+        },
+        "productions": []
+    },
+    "hasSquadCreationModule": false,
+    "maximumSquadsAmountPer100M": 0.0,
+    "hasDefenceModule": false,
+    "defenceData": {
+        "maxAmmo": 0,
+        "defaultWeapon": {
+            "instanceID": 0
+        },
+        "startSelectWeapon": {
+            "instanceID": 0
+        },
+        "weaponsUsable": [],
+        "additionalRatioCooldown": 0.0
+    },
+    "hasResearchModule": false,
+    "hasWorkersTreatmentModule": false,
+    "_healingPerDoctorPerHour": 0.0,
+    "hasSoldiersTreatmentModule": false,
+    "_bedsPerPhysician": 0,
+    "_bedHealingSpeed": 0.0,
+    "hasWeatherModule": false,
+    "_meteorologistEfficiencyPerGTS": 1.0,
+    "isInteractable": true,
+    "_isHq": false,
+    "showTextInProduction": false
+}
