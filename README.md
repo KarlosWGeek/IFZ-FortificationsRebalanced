@@ -5,8 +5,9 @@ The IFZ Fortifications Rebalanced Mod attempts to improve the game's early and l
 ## How to Install
 
 1. Download and install [IFZ-Moder](https://github.com/ChopperMonster/IFZ-Moder "IFZ-Moder"). Launch the game with it installed and working at least one.
-2. Download this Git as a .zip file, open it and put the "Json" folder in the "Infection Free Zone_Data\StreamingAssets" folder.
-3. Load up a save or start a new game. Walls, towers and gates will now have the mod's HP values instead of the base game values.
+2. Download this Git as a .zip file, open it and open the "IFZ-FortificationsRebalanced-main" folder.
+3. Put the "Json" folder in the "Infection Free Zone_Data\StreamingAssets" folder.
+4. Load up a save or start a new game. New walls, towers and gates will now have the mod's HP values instead of the base game values.
 
 Made for and tested on game version 0.24.6.18 1 BETA. Earlier and future versions may be unsupported due to the game being in early access with semi-frequent updates.
 NOTE - Walls, towers and gates placed before the mod was installed will keep their previous values. It's recommended to start a new save with the mod instead of loading older ones.
